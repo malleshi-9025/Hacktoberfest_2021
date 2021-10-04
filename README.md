@@ -235,4 +235,7 @@ Hurray! You successfully made a contribution!
 
 <h4 align="center">
   Show some ❤️ by giving star ⭐ to this repository!
+  Feel free to add everything you want from memes to blogs to codes to even show off your projects! 
+  Create a new issue that You want to contribute to this repository and Make a
+  PR from a different branch.
 </h4>
